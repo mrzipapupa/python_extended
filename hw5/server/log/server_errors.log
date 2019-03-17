@@ -1,0 +1,2 @@
+2019-03-18 00:14:23,930 - WARNING - connector.py - cannot get addr or port from cmd
+2019-03-18 00:14:31,860 - ERROR - server.py - Catch keyboard interrupt from server

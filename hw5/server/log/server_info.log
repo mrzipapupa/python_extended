@@ -1,0 +1,5 @@
+2019-03-18 00:14:23,931 - DEBUG - server.py - server was started
+2019-03-18 00:14:26,536 - INFO - server.py - Client accepted ('127.0.0.1', 52946)
+2019-03-18 00:14:28,847 - DEBUG - data_processor.py - receive message from client
+2019-03-18 00:14:28,847 - DEBUG - data_processor.py - set response to client
+2019-03-18 00:14:28,850 - DEBUG - data_processor.py - message to client was sent
