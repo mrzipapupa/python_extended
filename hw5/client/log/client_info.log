@@ -1,0 +1,16 @@
+2019-03-18 00:14:21,065 - DEBUG - client.py - client was started
+2019-03-18 00:14:21,070 - INFO - data_processor.py - connection complete
+2019-03-18 00:14:21,070 - INFO - data_processor.py - Server: ('127.0.0.1', 7777)
+Client: ('127.0.0.1', 52945)
+2019-03-18 00:14:26,531 - DEBUG - client.py - client was started
+2019-03-18 00:14:26,536 - INFO - data_processor.py - connection complete
+2019-03-18 00:14:26,536 - INFO - data_processor.py - Server: ('127.0.0.1', 7777)
+Client: ('127.0.0.1', 52946)
+2019-03-18 00:14:28,846 - DEBUG - data_processor.py - forming message for server...
+2019-03-18 00:14:28,851 - DEBUG - data_processor.py - get message from server
+2019-03-18 00:14:28,851 - DEBUG - data_processor.py - send message to server
+2019-03-18 00:14:28,851 - INFO - client.py - Response from server: None
+2019-03-18 00:14:31,856 - DEBUG - client.py - client was started
+2019-03-18 00:14:31,860 - INFO - data_processor.py - connection complete
+2019-03-18 00:14:31,861 - INFO - data_processor.py - Server: ('127.0.0.1', 7777)
+Client: ('127.0.0.1', 52949)
